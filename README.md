@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varshini S</h1>
 
----
+💻 Tech Stack:
 
-## 💻 Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
@@ -33,26 +32,20 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat"/>
 </p>
 
----
-
-## 📊 GitHub Stats:
+📊 GitHub Stats:
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=varshini-sasikumar&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshini-sasikumar&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=varshini-sasikumar&theme=radical" />
 </p>
 
----
-
-## ✍️ Random Dev Quote
+✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
